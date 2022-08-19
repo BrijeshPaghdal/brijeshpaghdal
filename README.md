@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/brijeshpaghdal" target="blank"></a> </p>
 
-- 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **brijeshpaghdal13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +21,7 @@
 <h3 align="left">Some stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijeshpaghdal&show_icons=true&locale=en" alt="brijeshpaghdal" /></p>
 <p><img align="center" src= " https://github-readme-stats.vercel.app/api?username=brijeshpaghdal" alt="brijeshpaghdal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshpaghdal&layout=compact&show_icons=true&locale=en" alt="brijeshpaghdal" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshpaghdal&" alt="brijeshpaghdal" /></p>
 
