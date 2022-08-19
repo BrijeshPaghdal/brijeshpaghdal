@@ -21,6 +21,6 @@
 <h3 align="left">Some stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijeshpaghdal&show_icons=true&locale=en" alt="brijeshpaghdal" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshpaghdal&layout=compact&show_icons=true&locale=en" alt="brijeshpaghdal" /> </p>
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=brijeshpaghdal)  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshpaghdal&" alt="brijeshpaghdal" /></p>
 
