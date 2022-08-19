@@ -30,6 +30,8 @@
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"/>
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p> 
 
 <h3 align="left">Some stats:</h3>
