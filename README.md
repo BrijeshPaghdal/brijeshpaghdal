@@ -22,7 +22,7 @@
 
 <h3 align="left">Some stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijeshpaghdal&show_icons=true&locale=en" alt="brijeshpaghdal" /></p>
-<p>https://github-readme-stats.vercel.app/api?username=brijeshpaghdal)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brijeshpaghdal)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshpaghdal&" alt="brijeshpaghdal" /></p>
 
